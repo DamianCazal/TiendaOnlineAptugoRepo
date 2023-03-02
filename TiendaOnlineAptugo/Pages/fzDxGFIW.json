@@ -5,10 +5,11 @@
   "parent": "OFR8KUdW",
   "path": "text.tpl",
   "prevent_delete": false,
+  "sourceType": "javascript",
   "type": "element",
   "unique_id": "fzDxGFIW",
   "value": "text",
   "values": {
-    "Content": "Hello!"
+    "Content": "Hello branch damian!"
   }
 }
