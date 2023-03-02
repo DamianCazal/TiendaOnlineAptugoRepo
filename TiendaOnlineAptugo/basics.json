@@ -1,0 +1,34 @@
+{
+  "_id": "Qt1TNlOTrQsmxDyk",
+  "createdAt": 1677782685442,
+  "modifiedAt": 1677782753133,
+  "settings": {
+    "name": "TiendaOnlineAptugo",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "TiendaOnlineAptugo",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://tiendaonlineaptugolite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/tiendaonlineaptugo"
+    },
+    "stagging": {
+      "apiURL": "https://tiendaonlineaptugolite.aptugo.app",
+      "type": "Local",
+      "folder": "TiendaOnlineAptugo_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://tiendaonlineaptugolite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/tiendaonlineaptugo"
+    },
+    "production": {
+      "apiURL": "https://tiendaonlineaptugolite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "TiendaOnlineAptugo",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://tiendaonlineaptugolite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/tiendaonlineaptugo"
+    }
+  }
+}
